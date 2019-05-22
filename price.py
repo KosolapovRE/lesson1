@@ -11,5 +11,5 @@ print(b)
 def sum(a, b):
     return a+b
 
-c = sum(2, 3)
+c = sum(5, 6)
 print(c)
